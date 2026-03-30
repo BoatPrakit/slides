@@ -1,0 +1,11 @@
+2026-03-30 10:00:01 [INFO] Server started on port 8080
+2026-03-30 10:05:12 [INFO] User login successful: user_123
+2026-03-30 10:07:45 [WARN] High memory usage detected (85%)
+2026-03-30 10:15:02 [INFO] Database backup completed
+2026-03-30 10:20:18 [ERROR] Failed to connect to payment gateway (timeout)
+2026-03-30 10:21:05 [INFO] Retry payment gateway connection...
+2026-03-30 10:21:30 [ERROR] Payment gateway connection failed after 3 retries
+2026-03-30 10:30:00 [WARN] Disk space running low on /var/log (15% left)
+2026-03-30 10:45:12 [INFO] User logout: user_123
+2026-03-30 11:00:00 [ERROR] OutOfMemoryException: Heap size exceeded
+2026-03-30 11:00:05 [INFO] Server restarting...
